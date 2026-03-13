@@ -42,13 +42,13 @@ except ImportError as e:
     sys.exit(1)
 
 # Конфигурация
-BOT_TOKEN = "7912781112:AAFYmyskJq5WimDalLBhqGHoLQ_4d-kmFZg"
-ADMIN_ID = 6552996559
-CHANNEL_USERNAME = '@IMPULSENONROOT'
-CHANNEL_LINK = 'https://t.me/IMPULSENONROOT'
-REVIEWS_CHANNEL = '@otziviGrapeCheat'
-REVIEWS_LINK = 'https://t.me/otziviGrapeCheat'
-SUPPORT_USERNAME = '@nonteam777'
+BOT_TOKEN = ""
+ADMIN_ID = 
+CHANNEL_USERNAME = ''
+CHANNEL_LINK = ''
+REVIEWS_CHANNEL = ''
+REVIEWS_LINK = ''
+SUPPORT_USERNAME = ''
 
 # 🔥 НАСТРОЙКИ
 AUTO_DELETE_MESSAGES = True
